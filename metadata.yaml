@@ -23,6 +23,8 @@ creator:
 description: Charles Kingsley was a priest of the Church of England, a university
   professor, historian and novelist. He is particularly associated with the West Country
   and northeast Hampshire. He was a friend and correspondent with Charles Darwin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20711#Daily-Thoughts--selected-from-the-writings-of-Charles-Kingsley-by-his-wife
 gutenberg_issued: '2007-02-28'
 gutenberg_type: Text
 identifiers:
