@@ -1,0 +1,38 @@
+_repo: Daily-Thoughts--selected-from-the-writings-of-Charles-Kingsley-by-his-wife_20711
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+  editor:
+    agent_name: Kingsley, Frances Eliza Grenfell
+    birthdate: 1814
+    deathdate: 1891
+    gutenberg_agent_id: '9226'
+    url: http://www.gutenberg.org/2009/agents/9226
+description: Charles Kingsley was a priest of the Church of England, a university
+  professor, historian and novelist. He is particularly associated with the West Country
+  and northeast Hampshire. He was a friend and correspondent with Charles Darwin.
+gutenberg_issued: '2007-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional exercises'
+- !lcc 'BV'
+title: 'Daily Thoughts: selected from the writings of Charles Kingsley by his wife'
+url: http://www.gutenberg.org/ebooks/20711
